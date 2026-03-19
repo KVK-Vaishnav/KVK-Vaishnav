@@ -2,48 +2,31 @@
 
 <p align="center">
   <a href="https://github.com/KVK-Vaishnav">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer+%7C+SDET;Selenium+%7C+TestNG+%7C+Cucumber+%7C+API+Testing;Building+Scalable+Automation+Frameworks;Improving+Release+Quality+%26+Speed" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=QA+Automation+Engineer+%7C+SDET;Selenium+%7C+TestNG+%7C+Cucumber;Building+Scalable+Automation+Frameworks;Aspiring+Automation+Tech+Architect" />
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-I’m a **QA Automation Engineer with 2+ years of experience** in building **robust UI automation frameworks** and improving **regression efficiency**.  
+I’m a **QA Automation Engineer with 2+ years of experience** in building **UI automation frameworks** and improving regression efficiency.  
 
-I specialize in designing **scalable, maintainable frameworks** and integrating them with **CI/CD pipelines** to accelerate release cycles.  
+I focus on writing **maintainable, scalable automation** and supporting stable releases through continuous testing.  
 
 - 🔭 Working at **Infor (India) Pvt. Ltd.**  
-- ⚡ Automated **50+ test cases** improving efficiency by **30%**  
-- 🚀 Improved regression coverage by **50%**  
-- 🌱 Currently exploring **API automation & advanced framework design**  
+- ⚡ Automated multiple functional test scenarios across ERP modules  
+- 📈 Contributed to improving regression coverage and execution efficiency  
+- 🌱 Currently upskilling in **Robotic Process Automation (RPA)** and **Playwright with Python**  
+- 🚀 Aspiring **Automation Tech Architect**  
 
 ---
 
 ## 🚀 What I Do  
 
-🔹 **UI Automation**  
-- Selenium WebDriver (Java)  
-- TestNG, Cucumber BDD  
-- Page Object Model (POM), Hybrid Framework  
-
-🔹 **Framework Engineering**  
-- Data-driven & reusable components  
-- Parallel execution (Maven)  
-- Custom utilities (Waits, Wrappers, Reporting)  
-
-🔹 **API Automation**  
-- REST Assured (learning + implementation)  
-- Postman  
-
-🔹 **CI/CD & DevOps**  
-- Jenkins pipelines  
-- Maven build automation  
-- GitHub integration  
-
-🔹 **Cloud & Agile QA**  
-- AWS, Azure, GCP  
-- Jira, Agile/Scrum  
+- 🔍 UI Automation → Selenium, TestNG, Cucumber  
+- 🧱 Frameworks → POM, Hybrid, Data-Driven  
+- ⚡ CI/CD → Jenkins, Maven, GitHub  
+- ☁️ Cloud & QA → AWS, Azure, GCP, On-Premises  
 
 ---
 
@@ -57,7 +40,7 @@ I specialize in designing **scalable, maintainable frameworks** and integrating 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-009688?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FD6C35?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧱 Frameworks & Design  
 ![POM](https://img.shields.io/badge/POM-DesignPattern-blue?style=for-the-badge)
@@ -70,28 +53,32 @@ I specialize in designing **scalable, maintainable frameworks** and integrating 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### ☁️ Cloud  
+### 🧰 Development Tools  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-Tool-grey?style=for-the-badge)
+
+### ☁️ Cloud & Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![On-Premises](https://img.shields.io/badge/On--Premises-Infra-lightgrey?style=for-the-badge)
 
 ---
 
 ## 📌 Featured Projects  
 
 🔹 **[ERP Automation Framework – IFS (Infor OS)](https://github.com/KVK-Vaishnav/UserActionsInIFS-Using-HybridTestNGFramework)**  
-✔ Built a **Hybrid TestNG framework** for ERP modules  
-✔ Implemented reusable components + parallel execution  
-✔ Integrated with **Jenkins CI/CD + GitHub**  
-✔ Improved regression efficiency & stability  
+✔ Built a Hybrid Selenium + TestNG framework for ERP workflows  
+✔ Implemented reusable components and parallel execution  
+✔ Integrated with Jenkins CI/CD and GitHub  
 
 ---
 
 🔹 **[E2E E-Commerce Automation Framework](https://github.com/KVK-Vaishnav/E2EEcommerceSeleniumProject)**  
-✔ Automated complete **user journey (Login → Cart → Checkout → Order)**  
-✔ Implemented **POM design pattern** for scalability  
-✔ Covered **positive + negative scenarios**  
-✔ Added reporting + screenshot capture for failures  
+✔ Automated complete user journey (Login → Product → Cart → Checkout)  
+✔ Implemented Page Object Model (POM) for maintainability  
+✔ Covered positive and negative test scenarios with reporting  
 
 ---
 
@@ -111,7 +98,7 @@ I specialize in designing **scalable, maintainable frameworks** and integrating 
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/vaishnav-kumar-kyama">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vaishnavkyama@gmail.com">
@@ -122,10 +109,10 @@ I specialize in designing **scalable, maintainable frameworks** and integrating 
 ---
 
 ## ✨ Personal Note  
-- 🎯 Focused on becoming a **Top SDET / Automation Architect**  
-- 🤝 Open to collaboration & learning  
-- 🚀 Always improving frameworks & automation strategy  
+- 🎯 Focused on becoming an **Automation Tech Architect**  
+- 🤝 Open to collaboration and continuous learning  
+- 🚀 Passionate about building scalable automation frameworks  
 
 ---
 
-<p align="center">💡 “Automation is not about replacing testers, it's about empowering quality.”</p>
+<p align="center">💡 “Quality is built, not tested.”</p>
