@@ -17,7 +17,8 @@ I focus on writing **maintainable, scalable automation** and supporting stable r
 - ⚡ Automated multiple functional test scenarios across ERP modules  
 - 📈 Contributed to improving regression coverage and execution efficiency  
 - 🌱 Currently upskilling in **Robotic Process Automation (RPA)** and **Playwright with Python**  
-- 🚀 Aspiring **Automation Tech Architect**  
+- 🚀 Aspiring **Automation Tech Architect**
+- 🐞 I enjoy uncovering tricky defects through automation and helping teams build more robust applications
 
 ---
 
@@ -109,10 +110,22 @@ I focus on writing **maintainable, scalable automation** and supporting stable r
 ---
 
 ## ✨ Personal Note  
-- 🎯 Focused on becoming an **Automation Tech Architect**  
-- 🤝 Open to collaboration and continuous learning  
-- 🚀 Passionate about building scalable automation frameworks  
+
+- 🎯 On a journey to become an **Automation Tech Architect**, building scalable and efficient test frameworks  
+- 🐞 Passionate about uncovering critical defects through automation and strengthening product quality  
+- 🤝 Open to collaboration, learning, and solving real-world automation challenges  
 
 ---
 
-<p align="center">💡 “Quality is built, not tested.”</p>
+### 🎧 Beyond Work  
+
+- 💻 I enjoy exploring automation and coding even in my free time  
+- 🎬 Movies, series, and anime enthusiast  
+- 🎸 Love playing guitar  
+- 🏀 Enjoy playing basketball  
+- 🚗 Automotive enthusiast  
+- 🛣️ Road trips and exploring new places  
+
+--- 
+
+<h3 align="center">⚡ I don't just automate tests — I build frameworks that drive product quality ⚡</h3>
